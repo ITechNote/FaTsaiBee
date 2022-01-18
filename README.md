@@ -1,4 +1,4 @@
-# ¡iFaTsaiBee | Develop first ERC20 token on Solidity by yourself¡j
+# ã€FaTsaiBee | Develop first ERC20 token on Solidity by yourselfã€‘
 Some ideas and tools need to learn before develop a smart contract.
 More details at https://itechnote.co/mytoken1/
 
