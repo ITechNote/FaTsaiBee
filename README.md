@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/badge/license-MIT-green)
 # 【FaTsaiBee】 Develop first ERC20 token by yourself on Remix Solidity
-Some ideas and useful tools need to learn before develop a smart contract. <br>
+**Some ideas and useful tools need to learn before develop a smart contract. <br>**
 - Searching Hash online, visit Etherescan: https://etherscan.io/
 - Learn some Solidity examples: https://solidity-by-example.org/
 - Start developing using Remix on browser, visit: https://remix.ethereum.org
@@ -22,7 +22,9 @@ Learn how to deploy a smart contract on Ethereum Kovan testnet. <br>
 Learning what is approval event how it works, when we will need a transferFrom function to transfer tokens. <br>
 
 ## ITechNote links
-Website: https://itechnote.co/
-Matters: https://matters.news/@itechnoteco
-Dcard: https://dcard.tw/@itechnote
-Others: linkby.tw/itechnote.co
+| Platforms | URL |
+| ------ | ------ |
+| Website | https://itechnote.co/ |
+| Matters | https://matters.news/@itechnoteco |
+| Dcard | https://dcard.tw/@itechnote |
+| Others | https://linkby.tw/itechnote.co |
