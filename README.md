@@ -17,6 +17,7 @@ More details at https://itechnote.co/mytoken3/
 
 ## [Deploy contracts](https://itechnote.co/mytoken4/)
 Learn how to deploy a smart contract on Ethereum Kovan testnet. <br>
+More details at https://itechnote.co/mytoken4/
 
 ## [FaTsaiBee.sol](https://github.com/ITechNote/FaTsaiBee/blob/main/FaTsaiBee.sol)
 Learning what is approval event how it works, when we will need a transferFrom function to transfer tokens. <br>
